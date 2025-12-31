@@ -75,7 +75,7 @@ function App() {
         ✨
       </div>
 
-      <h1 style={titleStyle}>Hello</h1>
+      <h1 style={titleStyle}>Hello World</h1>
 
       <p style={textStyle}>
         Experience the next generation of web interfaces. Built with precision,
